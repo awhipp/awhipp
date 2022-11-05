@@ -8,3 +8,5 @@ At the present Alexander is:
 Previously Alexander was at: 
 * Zoomdata helping clients solve business intelligence problems by integrating their existing technology stacks into the multifaceted visualization and business intelligence suite.
 * Booz Allen Hamilton where he focused on becoming an analytically-focused back-end developer and customer success lead for a suite of products.
+
+<img src="https://profile-counter.glitch.me/awhipp/count.svg" />
