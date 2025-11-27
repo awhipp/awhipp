@@ -1,12 +1,13 @@
 # Background
 
-Alex strives to be technologically savvy as well as competent in business to serve as a valuable asset between the desires of management and a development team's capabilities. 
+Alex strives to be technologically savvy as well as competent in business to serve as a valuable asset between the desires of management and a development team's capabilities. His professional and academic career are evidence of his multifaceted interests and skill-sets. 
 
 He uses his GitHub as a platform for testing out new tech and random ideas. 
 
 ## At Present
 
-Alex is a Senior Manager of Engineering at Capital One. His role focuses on rapidly prototyping enterprise services to support internal staff efforts. This involves utilizing technologies such as Retrieval-Augmented Generation (RAG) models for knowledge management suggestions, serverless Lambda functions and API Gateway for microservices, and AWS Fargate for containerized applications. His work spans across multiple teams and functions, ensuring seamless integration and optimal performance.
+* Alex is a Senior Manager of Engineering at Capital One. His role focuses on rapidly prototyping enterprise services to support internal staff efforts. 
+* Alex acts as a self-directed portfolio manager and executes on an investment strategy focused on consistent income generation. He manages the full pipeline which covers market analysis, risk management, and the tactical allocation of funds across various equity and options markets.
 
 ## Previously
 
