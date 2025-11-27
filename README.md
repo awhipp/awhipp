@@ -22,9 +22,3 @@ He uses his GitHub as a platform for testing out new tech and random ideas.
 * B.S. Computer Science, University of Maryland, 2011-2015
 * B.S. Psychology, University of Maryland, 2011-2015
 * Minor Business Analytics, University of Maryland, 2013-2015
-
-### Visitor Count
-
-Welcome! 
-
-<img src="https://profile-counter.glitch.me/awhipp/count.svg" />
